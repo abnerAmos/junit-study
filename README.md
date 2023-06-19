@@ -1,4 +1,4 @@
-# Selenium Study
+# Selenium Intro
 
 ## Sobre o estudo
 
